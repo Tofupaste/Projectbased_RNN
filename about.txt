@@ -1,0 +1,14 @@
+Features
+There are total 15 features in this data set.
+
+12 features are Numerical continuous values : Weather Parameters
+03 nos. of parameters contains the details of the Special days (Holidays, Holidays_ID, School days
+No null values in data sets
+Output- To be predicted
+
+Loading of the Panama in 'nat_demand' column
+Acknowledgements
+None to required.
+
+Inspiration
+Predicting Loading parameters correctly can reduce the Loss for the Power utilities and is the the critical challenge right now. You may Prove that the 'AI-ML' is the answer for that.
